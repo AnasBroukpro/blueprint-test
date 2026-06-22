@@ -14,4 +14,4 @@
 | OpenCode | `active` |
 | GitHub | `not configured` |
 
-[Voir le document complet](/blueprint/tool-status.md)
+[Voir le document complet](/blueprint/tool-status)

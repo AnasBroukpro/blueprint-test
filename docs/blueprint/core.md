@@ -24,4 +24,4 @@
 | Φ4 — Vérification | Revue validée |
 | Φ5 — Rétrospective | Carte à jour |
 
-[Voir le document complet](/blueprint/blueprint-core.md)
+[Voir le document complet](/blueprint/core)

@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress"
 
 export default defineConfig({
   lang: "fr-FR",
-  title: "Blueprint AI Stack",
+  title: "blueprint-test",
   description: "Framework de développement augmenté par l'IA",
 
   themeConfig: {
