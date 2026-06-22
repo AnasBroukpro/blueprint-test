@@ -4,3 +4,5 @@ docs/.vitepress/dist/
 graphify-out/
 .n8n/database*
 .vitepress-dev.log*
+
+.github-token
