@@ -1,0 +1,6 @@
+node_modules/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+graphify-out/
+.n8n/database*
+.vitepress-dev.log*
