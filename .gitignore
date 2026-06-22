@@ -6,3 +6,26 @@ graphify-out/
 .vitepress-dev.log*
 
 .github-token
+
+.n8n/webhook-proxy/ opencode-bridge/start-bridge.bat
+.n8n/activate-wf.cjs
+.n8n/active-*.json
+.n8n/all-wf.json
+.n8n/backup-*.json
+.n8n/check-*.cjs
+.n8n/check-*.json
+.n8n/current-wf.json
+.n8n/debug-*.cjs
+.n8n/delete-*.cjs
+.n8n/executions.json
+.n8n/export-*.json
+.n8n/find-auth.cjs
+.n8n/initial-*.json
+.n8n/query-*.sql
+.n8n/reset-*.cjs
+.n8n/simple-*.json
+.n8n/update-*.cjs
+.n8n/update-*.mjs
+.n8n/updated-*.json
+webhook-proxy/
+CON
